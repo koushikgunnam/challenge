@@ -2,7 +2,7 @@
 The flag is "**Flag{h0w_t0ugh_w4s_it}**"
 
 # Explanation
-The flag is first encrypted using an algorithm (details given below).The encrypted message and the algorithm code are hidden inside the image.
+The flag is first encrypted using an algorithm (details given below).The encrypted flag and the algorithm code are hidden inside the image.
 
 The encryption algorithm used consists of multiple steps. The flag is first converted to a hexadecimal string, which is then encrypted using AES-256 encryption with a static secret key. Finally, the encrypted message is encoded using Base64 encoding before being stored in the database.
 
