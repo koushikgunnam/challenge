@@ -8,9 +8,13 @@ The encryption algorithm used consists of multiple steps. The flag is first conv
 
 # Solution
 1.Download the image file.
+
 2.If we run file command on that image we can see that there are two comment on the image . They are "the password is doge" , "the encrypted message is RncNZAWMfJYsnBA8rDlsCjOajmcCHGspBe8APZUsoXU=" .
+
 3.Run steghide on the image file and used the password "doge".
+
 4.A python file is extracted.
+
  *hidden.py*
  ```python
 #The flag is encrypted using the following program.
