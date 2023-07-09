@@ -46,7 +46,7 @@ print("Encrypted message:", encrypted_message)
 
 5.Understand the python code and write a program to reverse this 
 
-*Python code for deencrytion*
+*Python code for deencryption*
 ```python
 import base64
 import hashlib
